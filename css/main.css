@@ -1,0 +1,10 @@
+#page-top > section.subscription.bg-white {
+    margin-top: 30px;
+}
+input#email.form-control.px-4.border-0.w-100.text-center.text-md-left {
+padding: 10px;
+}
+
+ .subscription.bg-white .form-control {
+     border: 1px solid #ebebeb !important;
+ }
